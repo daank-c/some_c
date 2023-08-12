@@ -16,4 +16,4 @@ This directory contains small C code snippets that showcase specific functionali
 
 ## Running Code Samples
 
-Each code sample or script directory includes its own instructions on how to compile and run the code. Navigate to the specific directory you're interested in and follow the instructions provided in the respective README or comments within the source code.
+Each code sample directory includes its own instructions on how to compile and run the code. Navigate to the specific directory you're interested in and follow the instructions provided in the respective README or comments within the source code.
