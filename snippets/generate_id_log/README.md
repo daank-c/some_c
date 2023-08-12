@@ -24,7 +24,6 @@ Once that's created, run the compiled executable:
 
 ```
 ./generate_id_files
-
 ```
 
 The program will generate a short identifier, create a log file with the identifier as the filename, and write the identifier to the log file.
