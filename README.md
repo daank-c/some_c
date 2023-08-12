@@ -17,13 +17,3 @@ This directory contains small C code snippets that showcase specific functionali
 ## Running Code Samples
 
 Each code sample or script directory includes its own instructions on how to compile and run the code. Navigate to the specific directory you're interested in and follow the instructions provided in the respective README or comments within the source code.
-
-## Contributions
-
-Contributions to this repository are welcome! If you have additional code samples, improvements, or fixes, feel free to open a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute the code samples as long as you include the original license and attribution.
-
-Feel free to explore the code samples and learn from them. Happy coding!
