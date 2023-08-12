@@ -1,6 +1,6 @@
 # UUID Generator 
 
-This code sample demonstrates a simple C++ program for generating Version 4 UUIDs. UUIDs (Universally Unique Identifiers) are 128-bit identifiers often used to uniquely identify resources and outputs them into a .txt file.
+This code sample demonstrates a simple C++ program for generating Version 4 UUIDs. UUIDs (Universally Unique Identifiers) are 128-bit identifiers often used to uniquely identify resources.
 
 ## Usage
 
