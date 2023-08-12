@@ -1,6 +1,6 @@
 # Short Id Generator 
 
-This code sample demonstrates a simple C++ program for generating 8 alphanumeric string.
+This code sample demonstrates a simple C++ program for generating 8-character alphanumeric strings.
 
 ## Usage
 
