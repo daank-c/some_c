@@ -14,3 +14,6 @@ After downloading this snippet or repository, you'll need to compile the code by
 from there, you can basically follow this screenshot of me making the program, generating text, then bringing everything back to its original state. ( if you 'make clean', you'll have to 'make' again if you want to use the program again.
 
 ![Screenshot 2023-08-12 5 40 14 PM](https://github.com/daank-c/some_c/assets/102710924/7b4d5a5a-1ed4-48f6-b3b7-937fa6a08eb4)
+
+A simpler screenshot where I didn't use the `ls` command after every point in the process, and also shows the results. 
+![Screenshot 2023-08-12 6 11 32 PM](https://github.com/daank-c/some_c/assets/102710924/d50a14ab-506e-42a9-b9f4-791c15b0e9ea)
