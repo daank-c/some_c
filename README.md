@@ -11,7 +11,7 @@ The repository is organized into sub-directories, each containing code samples r
 This directory contains small C code snippets that showcase specific functionalities. Each code snippet is located in its own subdirectory and includes source code files.
 
 - [uuid_generator](snippets/uuid_generator): Generates version 4 UUIDs.
-- [short_id_generator](snippets/short_id_generator): Generates short alphanumeric identifiers.
+- [short_id_generator](snippets/short_id_generator): Generates short alphanumeric identifiers. (coming soon)
 
 
 ## Running Code Samples
