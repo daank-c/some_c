@@ -12,6 +12,10 @@ This C++ program demonstrates how to generate a short identifier, use it to crea
 
 4. The identifier is written to the log file.
 
+
+![Screenshot 2023-08-12 9 04 42 PM](https://github.com/daank-c/some_c/assets/102710924/caf15a50-8233-42c1-8723-66c6632c4031)
+
+
 ## Usage
 
 Compile the program using a C++ compiler (e.g., g++) via the `makefile` provided by going to the main directory `generate_id_log` and inputting the following command to your linux terminal
