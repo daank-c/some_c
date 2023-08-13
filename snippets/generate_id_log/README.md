@@ -27,7 +27,7 @@ Compile the program using a C++ compiler (e.g., g++) via the `makefile` provided
 Once that's created, run the compiled executable:
 
 ```
-./generate_id_files
+./gen_id_log
 ```
 
 The program will generate a short identifier, create a log file with the identifier as the filename, and write the identifier to the log file.
